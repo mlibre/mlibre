@@ -1,4 +1,4 @@
-![good_things](good_things_2.png)
+![good_things](good_things.png)
 
 ### Mlibre
 
