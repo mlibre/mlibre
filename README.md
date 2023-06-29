@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://media.giphy.com/media/G1T5M0qT6ZJlu/giphy.gif" align="center" style="width: 100%" />
-</div>  
-
 ![good_things](good_things.png)
 
 ### Mlibre
