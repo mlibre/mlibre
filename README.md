@@ -29,8 +29,6 @@ I am always looking for new opportunities to learn and grow. If you are interest
 </a>  
 </div>  
 
-<br/>  
-
 ## Github Stats  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mlibre&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -40,5 +38,3 @@ I am always looking for new opportunities to learn and grow. If you are interest
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mlibre&&style=flat-square" align="center" />
 </div>  
-
-<br />
