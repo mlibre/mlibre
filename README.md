@@ -31,10 +31,7 @@ I am always looking for new opportunities to learn and grow. If you are interest
 
 ## Github Stats  
 
+| <a href="https://github.com/mlibre/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mlibre&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mlibre/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlibre&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mlibre&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mlibre&&style=flat-square" align="center" />
-</div>  
