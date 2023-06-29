@@ -1,4 +1,4 @@
-![<img src="good_things.png" width="250"/>](good_things.png)
+![good_things](good_things_2.png)
 
 ### Mlibre
 
