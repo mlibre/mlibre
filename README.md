@@ -1,4 +1,4 @@
-![good_things](good_things.png)
+![good_things](rainbow.jpg)
 
 ### Hey 👋
 
