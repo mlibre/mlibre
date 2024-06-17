@@ -1,18 +1,19 @@
 ![good_things](rainbow.jpg)
 
-### Hey 👋 🇵🇸
+### Hey 👋
 
-I am Masoud, a software engineer who loves creating cool stuff that people actually want to use.  
-With several years of experience in the tech industry, i've had the opportunity to contribute to various projects across web applications, mobile apps, Linux environments, and blockchain technologies
+I'm Masoud, a passionate software engineer dedicated to creating innovative solutions that people truly find useful.
 
-I'm pretty handy with Python and JavaScript. I am also familiar with a variety of software development frameworks and tools.
+With several years of experience in the tech industry, I've had the opportunity to work on a diverse range of projects, including web applications, mobile apps, Linux environments, and blockchain technologies.
 
-Always up for learning something new and taking on fresh challenges
+I'm always eager to learn new things and take on fresh challenges.
 
 In my spare time, I enjoy reading, gaming, and spending time with my family and friends.
 
-I am always looking for new opportunities to learn and grow. If you are interested in working with me, please do not hesitate to contact me. 😇  
-  
+### Stand with Palestine 🇵🇸
+
+The situation in Palestine is a crucial issue of our time, demanding global solidarity and action. Advocating for justice, peace, and human rights for Palestinians is imperative and close to my heart.
+
 ## Connect with me  
 
 <div align="center">
