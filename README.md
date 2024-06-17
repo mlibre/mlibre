@@ -1,12 +1,13 @@
 ![good_things](rainbow.jpg)
 
-### Hey 👋
+### Hey 👋 🇵🇸
 
-I am Masoud Ghorbanzadeh, a software engineer with a passion for building innovative and user-friendly products. I have over 5 years of experience in the tech industry, and I have worked on a variety of projects, including web applications, mobile apps, Linux and Blockchains.
+I am Masoud, a software engineer who loves creating cool stuff that people actually want to use.  
+With several years of experience in the tech industry, i've had the opportunity to contribute to various projects across web applications, mobile apps, Linux environments, and blockchain technologies
 
-I am proficient in a number of programming languages, including Python, and JavaScript. I am also familiar with a variety of software development frameworks and tools.
+I'm pretty handy with Python and JavaScript. I am also familiar with a variety of software development frameworks and tools.
 
-I am a highly motivated and results-oriented individual. I am always eager to learn new things and take on new challenges. I am also a team player and I enjoy working with others to achieve common goals.
+Always up for learning something new and taking on fresh challenges
 
 In my spare time, I enjoy reading, gaming, and spending time with my family and friends.
 
