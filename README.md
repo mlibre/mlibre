@@ -4,9 +4,9 @@
 
 I'm Masoud, a passionate software engineer dedicated to creating innovative solutions that people truly find useful.
 
-With several years of experience in the tech industry, I've had the opportunity to work on a diverse range of projects, including web applications, mobile apps, Linux environments, and blockchain technologies.
+With several years of experience in the tech industry, I've had the opportunity to work on a diverse range of projects, including web, Linux, blockchain technologies and AI.
 
-I'm always eager to learn new things and take on fresh challenges.
+I'm always ready to learn new things and take on fresh challenges.
 
 In my spare time, I enjoy reading, gaming, and spending time with my family and friends.
 
