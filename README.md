@@ -8,12 +8,6 @@ With several years of experience in the tech industry, I've had the opportunity 
 
 I'm always ready to learn new things and take on fresh challenges.
 
-In my spare time, I enjoy reading, gaming, and spending time with my family and friends.
-
-### Stand with Palestine 🇵🇸
-
-The situation in Palestine is a crucial issue of our time, demanding global solidarity and action. Advocating for justice, peace, and human rights for Palestinians is imperative and close to my heart.
-
 ## Connect with me  
 
 <div align="center">
